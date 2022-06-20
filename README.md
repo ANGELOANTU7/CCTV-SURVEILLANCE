@@ -12,6 +12,7 @@ In control rooms, there are multiple CCTV footage shown together, this method is
 
 ## Features
 
+![alt text](https://drive.google.com/file/d/12zSSx6Ww-E1Og6wbzaWXuF7jITk4rnF0/view?usp=sharing)
 - Detects any suspicious activity
 - Stores all the faces detected
 - Recognize criminal faces
