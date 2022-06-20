@@ -20,18 +20,18 @@ utube link
 
 ## Deployment
 
-To deploy this project run these four program simultaneously
+1.Download the model via Google Drive:
+[weight.hdf5](https://drive.google.com/file/d/1er2SP2aAfNzomZ3AvnEjsBdxfdHYSjYY/view?usp=sharing)
+[model.weights](https://drive.google.com/file/d/1qBFdDdv-gU7KKeqcCElDkwIszVttm8TW/view?usp=sharing)
+
+2.To deploy this project run these four program simultaneously
 
 **before uploading......**
-
 app.py
 
 **after uploading.....**
-
 AANeuralNetwork.py
-
 AAnumberplate_detection.py --video=uploads/video.mp4
-
 AAFacedetection_recognition.py
 
 
