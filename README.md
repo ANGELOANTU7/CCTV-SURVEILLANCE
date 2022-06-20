@@ -75,5 +75,15 @@ Facedetection_recognition.py
 
 TensorFlow,OpenCV,Neural Network,Deep Learning,HTML/CSS,Bootstrap,Keras,Object Detection,JavaScript
 
+## Challenges we ran into
+
+The first hurdle we faced was finding a good database to make a deep learning model which would serve the purpose of detecting suspicious activity in the footage, we finally found a criminal database by UCF, and we had to make the model from scratch.
+
+The second hurdle we faced was making the model using such a huge amount of database, as it required more and more system requirements, finally, we decided to go with the best prototype possible with the current system
+
+the third hurdle we faced was not having a criminal faceID database to identify the criminals, still, we created the face recognition software using OpenCV and pre-build ML, in which we have trained famous criminal faces to show its working
+
+As we are first years understanding ML and its implementation took time, therefore we had to make the UI and Video Demo in a short span of time.
+
 
 
