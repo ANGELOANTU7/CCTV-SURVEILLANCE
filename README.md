@@ -28,11 +28,11 @@ app.py
 
 **after uploading.....**
 
-NeuralNetwork.py
+AANeuralNetwork.py
 
-numberplate_detection.py --video=uploads/video.mp4
+AAnumberplate_detection.py --video=uploads/video.mp4
 
-Facedetection_recognition.py
+AAFacedetection_recognition.py
 
 
 
