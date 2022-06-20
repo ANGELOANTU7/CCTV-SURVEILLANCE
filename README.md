@@ -47,10 +47,33 @@ Facedetection_recognition.py
 | 50 | 12 | 31.111 | 63.33 |
 
 
+## Labels
 
+| Serial No.| Labels    |
+| :-------- | :------- 
+| 1 | Abuse | 
+| 2 | Arrest |
+| 3 | Assault | 
+| 4 | Burglary | 
+| 5 | Explosion | 
+| 6 | Fighting | 
+| 7 | Normal | 
+| 8 | RoadAccident | 
+| 9 | Robbery | 
+| 10 | Shooting | 
+| 11 | Shoplifting | 
+| 12 | Stealing | 
+| 13 | Vandalism | 
 
 
 ## DATASET USED
 
  - [UCF crminal database](https://www.crcv.ucf.edu/projects/real-world/)
+
+
+## Tech Stack
+
+TensorFlow,OpenCV,Neural Network,Deep Learning,HTML/CSS,Bootstrap,Keras,Object Detection,JavaScript
+
+
 
