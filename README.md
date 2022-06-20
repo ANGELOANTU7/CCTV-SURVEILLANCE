@@ -7,7 +7,7 @@ This software can automatically detect an anomaly in CCTV live footage , and sto
 In control rooms, there are multiple CCTV footage shown together, this method is not very effective as giving individual attention to each live footage at a time is very difficult. Despite so much surveillance, the crime rates are increasing. The problem is that inspecting several hundreds and thousands of videos is a very laborious and time-intensive task. Typically, they are only examined after a crime has occurred to find crime scene evidence, which is extremely inefficient considering the amount of footage. This manual task provides evidence in court but is rarely used to prevent crime or react to it in real-time. To solve this problem, we have created a CCTV monitoring system, which individually checks all footage for suspicious activity and stores face IDs and number plates present in the footage. 
 ## Demo
 
-utube link
+[YOUTUBE LINK](https://youtu.be/pt0ZVQ-Dxkw)
 
 
 ## Features
