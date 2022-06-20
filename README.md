@@ -11,12 +11,19 @@ In control rooms, there are multiple CCTV footage shown together, this method is
 
 
 ## Features
+-A User-Interface
+![Screenshot 2022-06-21 045300](https://user-images.githubusercontent.com/94218410/174689814-01bb0e72-0603-4e47-b277-6fa48cf2cc6f.jpg)
 
-![alt text](https://drive.google.com/file/d/12zSSx6Ww-E1Og6wbzaWXuF7jITk4rnF0/view?usp=sharing)
 - Detects any suspicious activity
+![Screenshot 2022-06-21 045425](https://user-images.githubusercontent.com/94218410/174689660-e232310d-1904-4918-afe9-ff4403c8e8db.jpg)
+
 - Stores all the faces detected
 - Recognize criminal faces
+![Screenshot 2022-06-21 045454](https://user-images.githubusercontent.com/94218410/174689686-3053456d-db91-47f1-b95c-53fb064a57eb.jpg)
+
 - Stores number-plate
+![Screenshot 2022-06-21 045524](https://user-images.githubusercontent.com/94218410/174689700-bb8cb5f7-562b-4f39-83d2-83e6f673e924.jpg)
+
 
 
 ## Deployment
